@@ -1,3 +1,8 @@
-body {
-    background-color: aquamarine;
+.cabecalho {
+    color: goldenrod;
+    background-color: black;
+    height: 2cm;
+    padding-left: 16cm;
+    font-family: monospace;
+    font-size: 250%;
 }
