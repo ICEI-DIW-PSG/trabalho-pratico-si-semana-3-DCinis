@@ -17,6 +17,9 @@ body{
     height: 2cm;
     padding-left: 16cm;
 }
+.menu {
+    display: inline;
+}
 .artigos{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     display: inline;
