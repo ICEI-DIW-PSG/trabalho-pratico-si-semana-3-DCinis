@@ -18,12 +18,19 @@ body{
     padding-left: 16cm;
 }
 .menu {
-    display: inline;
+    position: left;
+    background-color: rgb(24, 24, 24);
+    padding: 1cm;
+    width: 14%;
+    display: flex;
 }
 .artigos{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     display: inline;
     padding: 2cm;
+}
+main {
+    padding-left: 10cm;
 }
 h2{
     padding-left: 1cm;
@@ -36,5 +43,5 @@ img {
 }
 .rodape{
     text-align: center;
-    padding-top: 10cm;
+    padding-top: 1cm;
 }
