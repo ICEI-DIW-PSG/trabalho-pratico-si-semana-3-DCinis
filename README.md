@@ -10,17 +10,17 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Danylo Cristyan
+- 1598438
+- 1. Pessoas e Produções
+- Uma "mini-wiki" da banda Nirvana
 
 
 ## Print do(s) wireframe(s) criado
 
-<<  COLOQUE A IMAGEM AQUI >>
-
+<img src="public/images/nirvsite.jpg">
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+<img src="public/images/Captura de Tela (11).png">
+<img src="public/images/Captura de Tela (12).png">
